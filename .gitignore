@@ -1,0 +1,4 @@
+*.nii.gz
+config.json
+mask
+raw
